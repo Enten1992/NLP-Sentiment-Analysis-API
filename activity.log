@@ -677,3 +677,4 @@
 2023-05-01T00:00:00 - 5 - Refactor model architecture for better performance
 2023-05-04T00:00:00 - 0 - Update dependencies in requirements.txt
 2023-05-04T00:00:00 - 1 - Update project structure
+2023-05-04T00:00:00 - 2 - Add unit tests for core modules
