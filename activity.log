@@ -1467,3 +1467,4 @@
 2023-09-18T00:00:00 - 0 - Add unit tests for core modules
 2023-09-18T00:00:00 - 1 - Update project structure
 2023-09-18T00:00:00 - 2 - Optimize training loop
+2023-10-12T00:00:00 - 0 - Fix minor bugs in data preprocessing
