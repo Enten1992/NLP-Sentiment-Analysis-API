@@ -1531,3 +1531,4 @@
 2023-12-07T00:00:00 - 3 - Adjust hyperparameters for better convergence
 2023-12-07T00:00:00 - 4 - Update project structure
 2023-12-07T00:00:00 - 5 - Optimize training loop
+2023-12-07T00:00:00 - 6 - Add unit tests for core modules
