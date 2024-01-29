@@ -850,3 +850,4 @@
 2024-01-29T00:00:00 - 0 - Add unit tests for core modules
 2024-01-29T00:00:00 - 1 - Implement new feature for model evaluation
 2024-01-29T00:00:00 - 2 - Update dependencies in requirements.txt
+2024-01-29T00:00:00 - 3 - Improve error handling in API endpoints
