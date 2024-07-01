@@ -985,3 +985,4 @@
 2024-07-01T00:00:00 - 6 - Update project structure
 2024-07-01T00:00:00 - 7 - Adjust hyperparameters for better convergence
 2024-07-01T00:00:00 - 8 - Optimize training loop
+2024-07-01T00:00:00 - 9 - Add unit tests for core modules
