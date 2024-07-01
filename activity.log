@@ -988,3 +988,4 @@
 2024-07-01T00:00:00 - 9 - Add unit tests for core modules
 2024-07-01T00:00:00 - 10 - Update project structure
 2024-07-01T00:00:00 - 11 - Update dependencies in requirements.txt
+2024-07-01T00:00:00 - 12 - Fix issue with model saving and loading
