@@ -1696,3 +1696,4 @@
 2024-09-23T00:00:00 - 9 - Update dependencies in requirements.txt
 2024-09-23T00:00:00 - 10 - Refactor model architecture for better performance
 2024-09-23T00:00:00 - 11 - Update documentation and README
+2024-09-23T00:00:00 - 12 - Add unit tests for core modules
