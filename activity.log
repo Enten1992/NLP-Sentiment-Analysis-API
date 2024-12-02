@@ -104,3 +104,4 @@
 2024-11-28T00:00:00 - 10 - Optimize training loop
 2024-11-28T00:00:00 - 11 - Update documentation and README
 2024-12-02T00:00:00 - 0 - Update dependencies in requirements.txt
+2024-12-02T00:00:00 - 1 - Add unit tests for core modules
