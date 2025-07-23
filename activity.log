@@ -1961,3 +1961,4 @@
 2025-07-15T00:00:00 - 8 - Update documentation and README
 2025-07-23T00:00:00 - 0 - Fix minor bugs in data preprocessing
 2025-07-23T00:00:00 - 1 - Add support for new dataset
+2025-07-23T00:00:00 - 2 - Improve error handling in API endpoints
