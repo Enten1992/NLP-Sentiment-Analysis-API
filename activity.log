@@ -583,3 +583,4 @@
 2026-01-06T00:00:00 - 9 - Update documentation and README
 2026-01-06T00:00:00 - 10 - Fix issue with model saving and loading
 2026-01-06T00:00:00 - 11 - Fix issue with model saving and loading
+2026-01-06T00:00:00 - 12 - Add unit tests for core modules
